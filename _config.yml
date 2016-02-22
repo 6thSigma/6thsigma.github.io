@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://6thsigma.github.io/
-baseurl: 
+baseurl:
 title: Aaron Schuenemann
 author: Aaron Schuenemann
 description: Personal blog and resume
@@ -20,11 +20,11 @@ avatar: profile.png
 email: aschuenemann@gmail.com
 github: 6thSigma
 twitter: aschuen
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+linkedin: aaronschuenemann
+stackoverflow: users/2339943/6thsigma
 #Comment out if you don't want disqus
 #disqus: username
-google_analytics: UA-69391421-1
+google_analytics: 
 
 
 # needed for travis-ci build
