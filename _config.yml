@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -24,7 +24,7 @@ linkedin: aaronschuenemann
 stackoverflow: users/2339943/6thsigma
 #Comment out if you don't want disqus
 #disqus: username
-google_analytics:
+google_analytics: UA-43381417-1
 
 
 # needed for travis-ci build
